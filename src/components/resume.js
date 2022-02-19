@@ -22,14 +22,14 @@ return(
 
         <div class="justify-content-center mt-5">
             <div id="front-back">
-                <h2>front end experience</h2>
-                <p>HTML, CSS (Bootstrap, Foundation, Bulma), JavaScript, jQuery, React.js, Angular.js, IndexedDB</p>
+                <h2>Front End Experience</h2>
+                <p>HTML, CSS using Bootstrap and Bulma, JavaScript, jQuery, React.js, IndexedDB</p>
             </div>
     
             <div id="front-back" class="mt-5">
-                <h2>back end experience</h2>
+                <h2>Back End Experience</h2>
                 <p>
-                Node.js, Express.js, SQL (sqlite, mySQL, postgreSQL), Sequelize, NoSQL (MongoDB, Mongoose), Python, Django, API's (third-party, RESTful, server-side), Templating (Handlebars)
+                Node.js, Express.js, mySQL, Sequelize, NoSQL using MongoDB and Mongoose, API's both third-party, RESTful, server-side, as well as PWAs and Handlebars
                 </p>
             </div>
         </div>
