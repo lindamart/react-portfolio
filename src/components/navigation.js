@@ -1,14 +1,16 @@
 import React from 'react';
-import {NavLink} from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
-function Navigation(props) {   
+function Navigation(props) {
 
-    return (
+  return (
+      <div className="row Header" id="header">
     <div className=" row navigation" id="navigation">
         <NavLink to="/about">about </NavLink>
         <NavLink to="/portfolio">portfolio </NavLink>
         <NavLink to="/contact">contact </NavLink>
         <NavLink to="/resume">resume</NavLink>
+    </div>
     </div>
   );
 }
