@@ -1,5 +1,5 @@
 import React from 'react';
-import Linda from '../assets/linda.jpg';
+
 
 function About() {
   return (
@@ -19,6 +19,7 @@ function About() {
             such as Computer Science fundamentals, Javascript, ReactJS, Redux, VueJS, Vuex, NodeJS, MongoDB, CSS,
             HTML and other technologies. I am still eagerly learning additional
             languages to broaden my coding abilities.</p>
+          {/* // how do is import resume???? */}
           <p>
             View full <a href="#/resume" class="link">resume</a>
           </p>
