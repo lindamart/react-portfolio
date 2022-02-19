@@ -9,7 +9,7 @@ function About() {
 
       <div className="row justify-content-center">
         <div className="col-10" id="about-section">
-          <img className='avatar' src={Linda}  />
+        <img class="mb-5" src="linda.jpg" alt="Joseph DeWoody"/>
 
           <p>After years in the life insurance industry I was given the assignment to help create a new system for our
             new applications and at that moment I was hooked. Every time I had the opportunity I took advantage of any
