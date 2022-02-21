@@ -14,11 +14,11 @@ code {
 
 :root {
 
-  --orange-soda:#F06543;
+  --royal-blue:#3025ca;
   --platinum:#E8E9EB;
   --alabaster:#E0DFD5;
   --onyx:#313638;
-  --sandy-brown: #F09D51;
+  --baby-blue: #68ade6;
 }
 
 *  {
@@ -31,7 +31,7 @@ a {
 
 p {
   font-size: 18px;
-  color: var(--orange-soda);
+  color: var(--royal-blue);
   font-weight: bold;
   background-color: var(--platinum);
   text-align: center;
@@ -57,7 +57,7 @@ h1 {
 }
 
 #navigation a {
-  color: var(--orange-soda);
+  color: var(--royal-blue);
   padding-left: 1em;
   font-weight: bold;
   text-decoration: none;
@@ -92,7 +92,7 @@ h1 {
 .card .content {
   font-size: 18px;
   background-color: var(--platinum);
-  color: var(--orange-soda);
+  color: var(--royal-blue);
   font-weight: bold;
   text-align: center;
 }
@@ -111,7 +111,7 @@ h1 {
 #card-title {
   margin-top: 10px;
   color: var(--onyx);
-  text-shadow: 1px 1px 6px var(--sandy-brown);
+  text-shadow: 1px 1px 6px var(--baby-blue);
 }
 
 .wrapper {
@@ -188,7 +188,7 @@ h1 {
 
 #footer a {
   text-decoration: none;
-  color: var(--orange-soda);
+  color: var(--platinum);
 }
 
 #react-icon {
