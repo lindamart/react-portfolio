@@ -1,8 +1,10 @@
-[
+import heroAppImage from"./assets/heroGen.jpg"
+
+export default([
   {
     "id": 1,
     "name": "hero app",
-    "image": "assets/heroGen.jpg",
+    "image": heroAppImage,
     "github": "https://github.com/lindamart/Interactive_FrontEnd_HeroApp",
     "deploy": "https://lindamart.github.io/Interactive_FrontEnd_HeroApp//",
     "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv"
@@ -18,7 +20,7 @@
   {
     "id": 3,
     "name": "budget tracker",
-    "image": "assets/budgetTracker.jpg",
+    "image": "assets/budgetTracker.gif",
     "github": "https://github.com/lindamart/offline_budget_tracker",
     "deploy": "https://pwaoffline-budget-tracker.herokuapp.com/",
     "topics": "javascript, pwa, indexedDB, mongoDB, mongoose, compression, nodemon, express"
@@ -26,7 +28,7 @@
   {
     "id": 4,
     "name": "weather dashboard",
-    "image": "assets/weatherDashboard.jpg",
+    "image": "assets/weatherDashboard.png",
     "github": "https://github.com/lindamart/server_side_api_weather_dashboard",
     "deploy": "https://lindamart.github.io/server_side_api_weather_dashboard/",
     "topics": "javascript, jQuery, html, bootstrap, moment, API"
@@ -47,4 +49,4 @@
     "deploy": "https://lindamart.github.io/web-api-code-quiz/",
     "topics": "javascript, jQuery, html, bootstrap, moment, API"
   }
-]
+])

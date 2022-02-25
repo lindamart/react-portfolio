@@ -1,6 +1,6 @@
 import React from 'react'; 
 import ProjectCards from '../components/project'
-import portfolio from '../portfolio.json'
+import portfolio from '../portfolioData.js'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Wrapper(props) {
