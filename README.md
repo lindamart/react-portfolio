@@ -26,13 +26,12 @@ https://lindamart.github.io/react-portfolio
 ### GitHub Link
 https://github.com/lindamart/react-portfolio
 
-[Back to Table of Contents](#table-of-contents)
 
 # Preview
 
-### App Navigation
+### Portfolio Page
 
-![](assets/dbSchema.gif)
+![](src/assets/portfolioDisplay.jpg)
 
 [Back to Table of Contents](#table-of-contents)
 
