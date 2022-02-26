@@ -5,14 +5,14 @@ function Resume() {
 
     return (
         <section class="mb-5">
-            <h1 className="resume">Resume: Linda Martinez</h1>
+            <h1 className="resume">Linda Martinez</h1>
             <hr></hr>
             <div class="row justify-content-center" id="resume">
                 <div class="mt-5 pl-5 pr-5">
-                    Trainer, Tester and full stack developer with experience Computer Science fundamentals other technologies.
+                    
 
                     <p class="mt-5">
-                        <a href="www.linkedin.com/in/linda-m-319246217"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="LindaM LinkedIn" /></a>
+                    Trainer, Tester and full stack developer with experience Computer Science fundamentals other technologies.
                     </p>
                     <p>
                         Download my full <a href={resume} class="link">resume</a>

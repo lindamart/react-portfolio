@@ -4,11 +4,13 @@ import budgetTrackerImage from"./assets/budgetTracker.jpg"
 import weatherDashboardImage from"./assets/weatherDashboard.jpg"
 import workDaySchedulerImage from"./assets/workDaySched.jpg"
 import webApiQuizImage from"./assets/apiQuiz.jpg"
+import lindaImage from"./assets/linda.jpg"
+
 
 export default([
   {
     "id": 1,
-    "name": "hero app",
+    "name": "Hero App",
     "image": heroAppImage,
     "github": "https://github.com/lindamart/Interactive_FrontEnd_HeroApp",
     "deploy": "https://lindamart.github.io/Interactive_FrontEnd_HeroApp//",
@@ -16,7 +18,7 @@ export default([
   },
   {
     "id": 2,
-    "name": "tech blog",
+    "name": "Tech Blog",
     "image": techBlogImage,
     "github": "https://github.com/lindamart/tech-blog",
     "deploy": "https://tech-blog-lmart.herokuapp.com/",
@@ -24,7 +26,7 @@ export default([
   },
   {
     "id": 3,
-    "name": "budget tracker",
+    "name": "Budget Tracker",
     "image": budgetTrackerImage,
     "github": "https://github.com/lindamart/offline_budget_tracker",
     "deploy": "https://pwaoffline-budget-tracker.herokuapp.com/",
@@ -32,24 +34,24 @@ export default([
   },
   {
     "id": 4,
-    "name": weatherDashboardImage,
-    "image": "assets/weatherDashboard.png",
+    "name": "Weather Dashboard",
+    "image": weatherDashboardImage,
     "github": "https://github.com/lindamart/server_side_api_weather_dashboard",
     "deploy": "https://lindamart.github.io/server_side_api_weather_dashboard/",
     "topics": "javascript, jQuery, html, bootstrap, moment, API"
   },
   {
     "id": 5,
-    "name": workDaySchedulerImage,
-    "image": "assets/workDaySched.jpg",
+    "name": "Work Day Scheduler",
+    "image": workDaySchedulerImage,
     "github": "https://github.com/lindamart/third_party_api_workdayscheduler",
     "deploy": "https://lindamart.github.io/third_party_api_workdayscheduler/",
     "topics": "HTML, Javascript, Bootstrap, CSS, jQuery, Moment"
   },
   {
     "id": 6,
-    "name": webApiQuizImage,
-    "image": "assets/apiQuiz.jpg",
+    "name": "Web API Quiz Image",
+    "image": webApiQuizImage,
     "github": "https://github.com/lindamart/web-api-code-quiz",
     "deploy": "https://lindamart.github.io/web-api-code-quiz/",
     "topics": "javascript, jQuery, html, bootstrap, moment, API"

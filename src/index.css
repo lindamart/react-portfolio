@@ -83,7 +83,11 @@ h1 {
   background-color: var(--platinum);
 }
 
-.card .img-container img {
+.mypic {
+  height: 30%;
+}
+
+.card .img-container img  {
   width: 100%;
   padding: 25px;
   margin-bottom: 20px;
