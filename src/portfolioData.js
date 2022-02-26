@@ -4,7 +4,6 @@ import budgetTrackerImage from"./assets/budgetTracker.jpg"
 import weatherDashboardImage from"./assets/weatherDashboard.jpg"
 import workDaySchedulerImage from"./assets/workDaySched.jpg"
 import webApiQuizImage from"./assets/apiQuiz.jpg"
-import lindaImage from"./assets/linda.jpg"
 
 
 export default([

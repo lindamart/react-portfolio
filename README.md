@@ -21,7 +21,7 @@ In this project I created a React Portfolio.  This allows for a place not only t
 # Links
 
 ### Deployed Link
-
+https://lindamart.github.io/react-portfolio
 
 ### GitHub Link
 https://github.com/lindamart/react-portfolio
